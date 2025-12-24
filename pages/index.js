@@ -5,7 +5,6 @@ export async function getServerSideProps({ req }) {
     "https://tech.symbolsemoji.com/videos/Untitled.png",
     "https://tech.symbolsemoji.com",
     "https://google.com"
-    "https://chatgpt.com"
   ];
 
   // 🎲 RANDOM PICK
