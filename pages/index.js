@@ -1,10 +1,11 @@
 export async function getServerSideProps({ req }) {
   // 🔀 YOUR 4 REDIRECT URLS
   const URLS = [
-    "https://tech.symbolsemoji.com/top-10-multi-specialty-hospitals-in-chennai-for-advanced-medical-care/",
+    "https://tech.symbolsemoji.com/top-10-multi-specialty-hospitals-in-chennai-for-advanced-medical-care",
     "https://tech.symbolsemoji.com/videos/Untitled.png",
-    "https://tech.symbolsemoji.com/",
+    "https://tech.symbolsemoji.com",
     "https://google.com"
+    "https://chatgpt.com"
   ];
 
   // 🎲 RANDOM PICK
